@@ -1,0 +1,71 @@
+# kriptografi
+Nama : Muhamad Jati Wasesa
+Nim : 312210481
+dekrip : 
+1. GOOD BROOM SWEEP CLEAN
+2. REDWOOD NATIONAL STATE PARK
+3. JUNK FOOD AND HEALTH PROBLEMS
+   
+## Kunci: "TEKNIK INFORMATIKA"
+Kunci: TEKNIK INFORMATIKA → T, E, K, N, I, F, O, R, M, A 
+T E K N I
+F O R M A
+B C D G H
+L P Q S U
+V W X Y Z
+
+1. GOOD BROOM SWEEP CLEAN
+GO		CM
+OD		RC
+BR		DF
+OM		RA
+SW		PY
+EX		KW
+EP	  OW
+CL		BP
+EA		IO
+NX	  KY
+Ciphertext:
+CM RC DF RA PY KW OW BP IO KY
+
+2. REDWOOD NATIONAL STATE PARK
+RE, DW, OO → RE, DW, OX, DN, AT, IO, NA, LS, TA, TE, PA, RK
+RE			OK
+DW			CX
+OX	    RW
+DN			GK
+AT      FI
+IO			EA
+NA			IM
+LS      PU
+TA      IF
+TE			EK
+PA			UO
+RK			DR
+Ciphertext:
+OK CX RW GK FI EA IM PU IF EK UO DR
+
+
+
+4. JUNK FOOD AND HEALTH PROBLEMS
+   IU, NK, FO, OD, AN, DH, EA, LT, HP, RO, BL, EM, SX
+IU			AZ
+NK			IN
+FO		  OR
+OD			RC
+AN			MI
+DH			GB
+EA			IO
+LT      VF
+HP			CU
+RO			OR
+BL			LV
+EM			NO
+SX			QY
+Ciphertext:
+AZ IN OR RC MI GB IO VF CU OR LV NO QY
+
+
+
+
+
